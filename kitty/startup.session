@@ -1,0 +1,3 @@
+# Start kitty in the home directory
+cd ~
+launch
