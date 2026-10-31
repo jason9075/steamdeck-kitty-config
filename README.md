@@ -14,6 +14,7 @@ Steam Deck's Gaming Mode, plus the Steam Input layout that goes with it.
 | What | How |
 | --- | --- |
 | On-screen keyboard covers the prompt | **L4** opens the keyboard and lifts kitty's text above it (`Ctrl+Shift+F11`); **R4** restores it (`Ctrl+Shift+F12`). Adjust the `padding-bottom=260` value if needed. |
+| Send Enter without closing the on-screen keyboard | **R5** sends `F9`, which kitty turns into Enter. Steam closes its keyboard on a real Enter key. |
 | Switch tabs (Steam takes `Ctrl+Shift+Tab`) | `F7` previous tab, `F8` next tab |
 | Scroll a page | `Ctrl+U` / `Ctrl+D` |
 | New window/tab in the current folder | `Ctrl+Shift+Enter` / `Ctrl+Shift+T` |

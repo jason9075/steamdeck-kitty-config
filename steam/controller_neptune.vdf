@@ -1,12 +1,12 @@
 "controller_mappings"
 {
 	"version"		"3"
-	"revision"		"37"
+	"revision"		"40"
 	"title"		"Kitty Steamdeck Layout"
 	"description"		"#SettingsController_AutosaveDescription"
 	"creator"		"76561197968064190"
-	"progenitor"		"workshop://3830711420"
-	"url"		"autosave:///home/deck/.local/share/Steam/steamapps/common/Steam Controller Configs/7798462/config/kitty/controller_neptune.vdf"
+	"progenitor"		"workshop://3830715701"
+	"url"		"workshop://3830715701"
 	"export_type"		"community"
 	"controller_type"		"controller_neptune"
 	"controller_caps"		"23117823"
@@ -378,6 +378,26 @@
 		"description"		""
 		"inputs"
 		{
+			"click"
+			{
+				"activators"
+				{
+					"Full_Press"
+					{
+						"bindings"
+						{
+							"binding"		"key_press RETURN, , "
+						}
+						"settings"
+						{
+							"haptic_intensity"		"2"
+						}
+					}
+				}
+				"disabled_activators"
+				{
+				}
+			}
 		}
 		"settings"
 		{
@@ -804,8 +824,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press EQUALS, , "
 							"binding"		"key_press LEFT_CONTROL, , "
+							"binding"		"key_press EQUALS, , "
 						}
 					}
 				}
@@ -821,8 +841,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press DASH, , "
 							"binding"		"key_press LEFT_CONTROL, , "
+							"binding"		"key_press DASH, , "
 						}
 					}
 				}
@@ -982,8 +1002,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_CONTROL, , "
 							"binding"		"key_press LEFT_SHIFT, , "
+							"binding"		"key_press LEFT_CONTROL, , "
 							"binding"		"key_press F11, , "
 						}
 						"settings"
@@ -1004,8 +1024,8 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_SHIFT, , "
 							"binding"		"key_press LEFT_CONTROL, , "
+							"binding"		"key_press LEFT_SHIFT, , "
 							"binding"		"key_press F12, , "
 						}
 					}
