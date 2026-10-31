@@ -1,12 +1,12 @@
 "controller_mappings"
 {
 	"version"		"3"
-	"revision"		"40"
+	"revision"		"44"
 	"title"		"Kitty Steamdeck Layout"
 	"description"		"#SettingsController_AutosaveDescription"
 	"creator"		"76561197968064190"
-	"progenitor"		"workshop://3830715701"
-	"url"		"workshop://3830715701"
+	"progenitor"		"workshop://3830718810"
+	"url"		"autosave:///home/deck/.local/share/Steam/steamapps/common/Steam Controller Configs/7798462/config/kitty/controller_neptune.vdf"
 	"export_type"		"community"
 	"controller_type"		"controller_neptune"
 	"controller_caps"		"23117823"
@@ -985,7 +985,6 @@
 					{
 						"bindings"
 						{
-							"binding"		"key_press LEFT_CONTROL, , "
 							"binding"		"key_press TAB, , "
 						}
 					}
